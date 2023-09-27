@@ -1,0 +1,6 @@
+torch
+json_lines
+opencv
+torchvision
+torchinfo
+tqdm
