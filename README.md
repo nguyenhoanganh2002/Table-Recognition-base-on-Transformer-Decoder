@@ -1,5 +1,5 @@
 # Table-Recognition-base-on-Transformer-Decoder
-An end to end model for three sub-tasks of Table Recognition:  table structure recognition, cell detection, and cell-content recognition
+An end to end model for two sub-tasks of Table Recognition:  table structure recognition, cell detection
 
 ## Dataset: [Pubtabnet](https://github.com/ibm-aur-nlp/PubTabNet.git)
 ## Architecture: base on [this paper](https://paperswithcode.com/paper/an-end-to-end-multi-task-learning-model-for-1)
