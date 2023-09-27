@@ -11,6 +11,14 @@ An end to end model for three sub-tasks of Table Recognition:  table structure r
 
 ![image](https://github.com/nguyenhoanganh2002/Table-Recognition-base-on-Transformer-Decoder/assets/79850337/4eda19bf-345f-4cbd-beac-12433c8ca922)
 
+## Proposal Architecture:
+* Add FPN and Encoder Transformer
+![image](https://github.com/nguyenhoanganh2002/Table-Recognition-base-on-Transformer-Decoder/assets/79850337/7acb57f7-3728-41f7-aeba-250fce1d9952)
+![image](https://github.com/nguyenhoanganh2002/Table-Recognition-base-on-Transformer-Decoder/assets/79850337/af8c9fc1-8e8f-4d81-b873-1aef76ff1872)
+
+* Add Multi-Aspect Global Context Attention
+![image](https://github.com/nguyenhoanganh2002/Table-Recognition-base-on-Transformer-Decoder/assets/79850337/068881eb-3b41-4a8b-9f49-756f4cf5050f)
+
 ## Description:
 * `config.py` contains hyperparameters
 * `parsing_data.py` match raw data from Pubtabnet to anotation
